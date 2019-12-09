@@ -1,0 +1,106 @@
+[
+  {
+    "nombre": "Milanesa",
+    "cal": 300,
+    "carb": 14.3,
+    "prot": 32,
+    "gras": 11.91,
+    "unidad": "milanesa"
+  },
+  {
+    "nombre": "Fideos",
+    "cal": 131,
+    "carb": 25,
+    "prot": 5,
+    "gras": 1.1,
+    "unidad": "plato"
+  },
+  {
+    "nombre": "Carne de vaca",
+    "cal": 250,
+    "carb": 0,
+    "prot": 26,
+    "gras": 15,
+    "unidad": "filete"
+  },
+  {
+    "nombre": "Pollo",
+    "cal": 146,
+    "carb": 0,
+    "prot": 28,
+    "gras": 3.57,
+    "unidad": "filete"
+  },
+  {
+    "nombre": "Lenguado",
+    "cal": 86,
+    "carb": 0,
+    "prot": 15.2,
+    "gras": 2.4,
+    "unidad": "filete"
+  },
+  {
+    "nombre": "Salmon",
+    "cal": 208,
+    "carb": 0,
+    "prot": 20,
+    "gras": 13,
+    "unidad": "filete"
+  },
+  {
+    "nombre": "Sardinas",
+    "cal": 191,
+    "carb": 0,
+    "prot": 22.6,
+    "gras": 10.5,
+    "unidad": "lata"
+  },
+  {
+    "nombre": "Atún",
+    "cal": 130,
+    "carb": 0,
+    "prot": 29,
+    "gras": 1,
+    "unidad": "lata"
+  },
+  {
+    "nombre": "Carne de cerdo",
+    "cal": 146,
+    "carb": 0,
+    "prot": 20,
+    "gras": 37.3,
+    "unidad": "filete"
+  },
+  {
+    "nombre": "Cordero",
+    "cal": 105,
+    "carb": 0,
+    "prot": 21,
+    "gras": 2.4,
+    "unidad": "filete"
+  },
+  {
+    "nombre": "Pastel de carne",
+    "cal": 149,
+    "carb": 4.5,
+    "prot": 17,
+    "gras": 6,
+    "unidad": "porción"
+  },
+  {
+    "nombre": "Albóndigas",
+    "cal": 197,
+    "carb": 8,
+    "prot": 21,
+    "gras": 9,
+    "unidad": "albóndiga"
+  },
+  {
+    "nombre": "Ravioles",
+    "cal": 77,
+    "carb": 14,
+    "prot": 2.5,
+    "gras": 1.5,
+    "unidad": "plato"
+  }
+]
